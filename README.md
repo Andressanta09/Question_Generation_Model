@@ -26,12 +26,12 @@ This is a Streamlit web application powered by Google Gemini that generates cust
 ## 📁 Project Structure
 
 job-interview-question-app/
-├── main_app.py # Main Streamlit app
-├── question_gen.py # Generator using structured inputs
-├── question_gen2.py # Generator using job description
-├── requirements.txt
-├── DejaVuSans.ttf # (Optional font for PDF generation)
-└── README.md
+-├── main_app.py # Main Streamlit app
+-├── question_gen.py # Generator using structured inputs
+-├── question_gen2.py # Generator using job description
+-├── requirements.txt
+-├── DejaVuSans.ttf # (Optional font for PDF generation)
+-└── README.md
 
 ## ▶️ Run Locally
 
